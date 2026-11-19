@@ -31,5 +31,7 @@
 
 1. **Clone the repository:**
    ```bash
+   pip install requests rich
+   python termweatherclli.py
    git clone [https://github.com/efexn/term-weather.git](https://github.com/efexn/term-weather.git)
    cd term-weather
